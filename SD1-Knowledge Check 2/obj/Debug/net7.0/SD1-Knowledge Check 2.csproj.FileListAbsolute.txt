@@ -1,0 +1,15 @@
+/Users/hunteraustin/Projects/SD1-Knowledge Check 2/SD1-Knowledge Check 2/bin/Debug/net7.0/SD1-Knowledge Check 2
+/Users/hunteraustin/Projects/SD1-Knowledge Check 2/SD1-Knowledge Check 2/bin/Debug/net7.0/SD1-Knowledge Check 2.deps.json
+/Users/hunteraustin/Projects/SD1-Knowledge Check 2/SD1-Knowledge Check 2/bin/Debug/net7.0/SD1-Knowledge Check 2.runtimeconfig.json
+/Users/hunteraustin/Projects/SD1-Knowledge Check 2/SD1-Knowledge Check 2/bin/Debug/net7.0/SD1-Knowledge Check 2.dll
+/Users/hunteraustin/Projects/SD1-Knowledge Check 2/SD1-Knowledge Check 2/bin/Debug/net7.0/SD1-Knowledge Check 2.pdb
+/Users/hunteraustin/Projects/SD1-Knowledge Check 2/SD1-Knowledge Check 2/obj/Debug/net7.0/SD1-Knowledge Check 2.csproj.AssemblyReference.cache
+/Users/hunteraustin/Projects/SD1-Knowledge Check 2/SD1-Knowledge Check 2/obj/Debug/net7.0/SD1-Knowledge Check 2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hunteraustin/Projects/SD1-Knowledge Check 2/SD1-Knowledge Check 2/obj/Debug/net7.0/SD1-Knowledge Check 2.AssemblyInfoInputs.cache
+/Users/hunteraustin/Projects/SD1-Knowledge Check 2/SD1-Knowledge Check 2/obj/Debug/net7.0/SD1-Knowledge Check 2.AssemblyInfo.cs
+/Users/hunteraustin/Projects/SD1-Knowledge Check 2/SD1-Knowledge Check 2/obj/Debug/net7.0/SD1-Knowledge Check 2.csproj.CoreCompileInputs.cache
+/Users/hunteraustin/Projects/SD1-Knowledge Check 2/SD1-Knowledge Check 2/obj/Debug/net7.0/SD1-Knowledge Check 2.dll
+/Users/hunteraustin/Projects/SD1-Knowledge Check 2/SD1-Knowledge Check 2/obj/Debug/net7.0/refint/SD1-Knowledge Check 2.dll
+/Users/hunteraustin/Projects/SD1-Knowledge Check 2/SD1-Knowledge Check 2/obj/Debug/net7.0/SD1-Knowledge Check 2.pdb
+/Users/hunteraustin/Projects/SD1-Knowledge Check 2/SD1-Knowledge Check 2/obj/Debug/net7.0/SD1-Knowledge Check 2.genruntimeconfig.cache
+/Users/hunteraustin/Projects/SD1-Knowledge Check 2/SD1-Knowledge Check 2/obj/Debug/net7.0/ref/SD1-Knowledge Check 2.dll
